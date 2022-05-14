@@ -1,4 +1,4 @@
-//toda variavel do tipo arrey começa 
+//Variavel tipo Array 
 //            0    1   2  
 var valores=["SP",7.5,2021];
 document.querySelector("#dv1").innerHTML=valores;
